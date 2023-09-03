@@ -1,0 +1,3 @@
+module libc [system] {
+	header "libc.h"
+}
